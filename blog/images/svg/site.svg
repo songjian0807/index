@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(2.000000, 1.000000)">
+            <polygon id="Fill-1" fill="#1585FF" points="-8.23529412e-05 11.9935529 2.90532941 11.9935529 2.90532941 26.6564941 9.30827059 26.6564941 9.30827059 20.0237882 16.8065059 20.0237882 16.8065059 26.6564941 23.2102706 26.6564941 23.2102706 11.9935529 26.1156824 11.9935529 13.0569765 0.824023529"></polygon>
+            <g id="分组" transform="translate(0.000000, 0.303224)" stroke="#122F44" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M0,11.6904118 L13.0570588,0.520882353" id="Stroke-2"></path>
+                <path d="M0,11.6904118 L2.90541176,11.6904118" id="Stroke-4"></path>
+                <path d="M2.90532941,11.6904118 L2.90532941,26.3533529" id="Stroke-6"></path>
+                <path d="M2.90532941,26.3531059 L9.30827059,26.3531059" id="Stroke-8"></path>
+                <path d="M9.3086,19.7206471 L9.3086,26.3533529" id="Stroke-10"></path>
+            </g>
+            <path d="M9.3086,20.0238706 L13.0573059,20.0238706" id="Stroke-12" stroke="#122F44" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="分组" transform="translate(12.352941, 0.303224)" stroke="#122F44" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M13.762,11.6904118 L0.704941176,0.520882353" id="Stroke-13"></path>
+                <path d="M13.762,11.6904118 L10.8574118,11.6904118" id="Stroke-15"></path>
+                <path d="M10.8570824,11.6904118 L10.8570824,26.3533529" id="Stroke-17"></path>
+                <path d="M10.8570824,26.3531059 L4.45414118,26.3531059" id="Stroke-19"></path>
+                <path d="M4.45381176,19.7206471 L4.45381176,26.3533529" id="Stroke-21"></path>
+            </g>
+            <path d="M16.8067529,20.0238706 L13.0572235,20.0238706" id="Stroke-23" stroke="#122F44" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(3.366667, 1.000000)">
+            <polygon id="Fill-1" fill="#1585FF" points="1.63333333 28 21.6333333 28 21.6333333 1 1.63333333 1"></polygon>
+            <g id="分组" transform="translate(0.633333, 0.000000)" stroke="#122F44" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M0.7777,0.569411111 L20.4158111,0.569411111" id="Stroke-2"></path>
+                <path d="M0.7777,0.569411111 L0.7777,27.2223" id="Stroke-4"></path>
+                <path d="M20.4158111,0.569411111 L20.4158111,27.2223" id="Stroke-6"></path>
+                <path d="M0.7777,27.2219889 L20.4158111,27.2219889" id="Stroke-8"></path>
+            </g>
+            <path d="M8.63333333,22.5 L13.6333333,22.5" id="Stroke-10" stroke="#122F44" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
